@@ -10,5 +10,10 @@
 
 - #### Where to find me [Linkedin](https://www.linkedin.com/in/guillermo-osc/)
 
+- #### Portfolio web [GuillermoOsc.io](https://guillermoosc.github.io/GuillermoOsc/)
+
+
+
+
 
 

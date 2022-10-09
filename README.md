@@ -1,12 +1,16 @@
-### Hi i´m Guillermo Oscar from Córdoba Argentina.
+## Hi i´m Guillermo Oscar from Córdoba Argentina.
 
-- #### Backend software developer & QA Analyst 
+- ### QA Analyst - automation
+- Cypress 
+- Testcafe
+- Mocha - Chai
+- Jest
+- Cucumber
+
+ ### Backend software developer 
 - NodeJs - Express
 - Python - Django
 - MySql - MongoDB
-
-- #### QA-Automation
-- Cypress & Testcafe
 
 - #### Where to find me [Linkedin](https://www.linkedin.com/in/guillermo-osc/)
 

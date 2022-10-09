@@ -6,7 +6,7 @@
 - MySql - MongoDB
 
 - #### QA-Automation
-- Cypress, Testcafe and Selenium with Python / Javascript
+- Cypress & Testcafe
 
 - #### Where to find me [Linkedin](https://www.linkedin.com/in/guillermo-osc/)
 

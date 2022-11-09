@@ -1,6 +1,6 @@
 ## Hi i´m Guillermo Oscar from Córdoba Argentina.
 
- ### QA Analyst - automation
+ ### QA Analyst - Automation
 - Cypress 
 - Testcafe
 - Mocha - Chai

@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi i´m Guillermo Oscar from Córdoba Argentina.      
 
-<!--
-**GuillermoOsc/GuillermoOsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Analyst - QA Automation             
+- Playwright                                  
+- Cypress                              
+- Mocha / Chai / Jest / Jasmine            
+- Postman / Newman
+- Gherkin / Cucumber
+- CI CD
 
-Here are some ideas to get you started:
+### Software developer
+- Python 
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
+- SQL - MySql
+- NOSQL - MongoDB
+ 
+- #### Where to find me [Linkedin](https://www.linkedin.com/in/guillermo-osc/)

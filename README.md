@@ -1,8 +1,7 @@
 ## Hi i´m Guillermo Oscar from Córdoba Argentina.      
 
 ### QA Analyst - QA Automation             
-- Playwright                                  
-- Cypress                              
+- Playwright                                                                
 - Mocha / Chai / Jest / Jasmine            
 - Postman / Newman
 - Gherkin / Cucumber

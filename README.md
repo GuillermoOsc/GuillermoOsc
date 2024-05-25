@@ -1,4 +1,4 @@
-## Hi i´m Guillermo Oscar from Córdoba Argentina.      
+## Hi I´m Guillermo Oscar from Córdoba Argentina.      
 
 ### QA Analyst - QA Automation             
 - Playwright                                                                
